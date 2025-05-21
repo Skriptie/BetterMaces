@@ -1,3 +1,4 @@
+![14209793-6947-4b7d-9a9e-ebdfe612b390](https://github.com/user-attachments/assets/f56f85b4-ecd5-4f90-8529-3d16dc21f985)
 # BetterMaces
 **BetterMaces** is a custom Minecraft plugin built for Paper 1.21.4 and above. It introduces a unique crafting ritual for the new 1.21 mace, limiting its creation to one active mace at a time per server and adding immersive mechanics around visibility, pickup delays, and risk of destruction.
 
